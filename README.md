@@ -2,7 +2,7 @@
   <h1>🎀 Hiya, I'm Envvy! 🌸👑</h1>
   <p><i>Software developer, game creator, and coding princess! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</i></p>
   
-  <img src="https://i.imgur.com/T0Wk4gN.gif" width="300" alt="Pink Pixel Art Divider" />
+  <img src="https://grlmag.com/wp-content/uploads/2022/04/pink-divider-png-4.png" width="300" alt="Pink Pixel Art Divider" />
 </div>
 
 <br>
@@ -11,14 +11,14 @@
 Welcome to my pink little corner of GitHub! I'm a passionate developer who loves bringing creative, interactive, and fun ideas to life through code. Whether I'm building cozy server companions, scripting game engine mechanics, or designing beautiful anime-style characters, I put my whole heart into my projects! 💖
 
 <div align="center">
-  <img src="https://i.imgur.com/qUINgU8.gif" alt="Sparkle Divider" />
+  <img src="https://grlmag.com/wp-content/uploads/2022/04/pink-divider-png-4.png" width="300" alt="Pink Pixel Art Divider" />
 </div>
 
 ### 👑 What I'm working on right now...
 I am currently pouring my magic into **Blossom** 🌸, a custom Discord bot! I'm building out the backend logic and cozy bot architecture entirely in **Ruby** 💎, handling real-time events with the Discord API, and keeping everything perfectly organized with **SQLite**.
 
 <div align="center">
-  <img src="https://i.imgur.com/qUINgU8.gif" alt="Sparkle Divider" />
+  <img src="https://grlmag.com/wp-content/uploads/2022/04/pink-divider-png-4.png" width="300" alt="Pink Pixel Art Divider" />
 </div>
 
 ### 🛠️ What I Can Do
@@ -29,7 +29,7 @@ I am currently pouring my magic into **Blossom** 🌸, a custom Discord bot! I'm
 * **🎨 Creative Design:** Beyond the code, I have a deep love for character design and bringing original characters to life. 
 
 <div align="center">
-  <img src="https://i.imgur.com/qUINgU8.gif" alt="Sparkle Divider" />
+  <img src="https://grlmag.com/wp-content/uploads/2022/04/pink-divider-png-4.png" width="300" alt="Pink Pixel Art Divider" />
 </div>
 
 ### 💻 My Tech Stack & Tools
